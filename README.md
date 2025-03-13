@@ -1,1 +1,3 @@
 # FORR2GL05DU
+
+## VERKEFNI 1
