@@ -19,3 +19,5 @@
 [Myndaband fyrir Verkefni 2](https://youtu.be/IRA04BrFQ5s)
 
 [Release](https://github.com/MarijonasVV/FORR2GL05DU/releases/tag/Verkefni)
+
+[Leikur](https://play.unity.com/en/games/ff820cea-5a34-404f-9a2f-b51660eac5eb/leikur-marijonas)
