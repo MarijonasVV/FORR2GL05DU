@@ -17,3 +17,5 @@
 [Skripts fyrir Verkefni 2](https://github.com/MarijonasVV/FORR2GL05DU/tree/main/Verkefni2)
 
 [Myndaband fyrir Verkefni 2](https://youtu.be/IRA04BrFQ5s)
+
+[Release](https://github.com/MarijonasVV/FORR2GL05DU/releases/tag/Verkefni)
