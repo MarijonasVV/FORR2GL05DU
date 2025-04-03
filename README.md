@@ -25,3 +25,5 @@
 ## VERKEFNI 3
 
 [Skriftur](https://github.com/MarijonasVV/FORR2GL05DU/tree/main/Verkefni3/skriftur)
+
+[Myndaband](https://youtu.be/En-sKLzrWE8)
