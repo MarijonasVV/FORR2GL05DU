@@ -21,3 +21,7 @@
 [Release](https://github.com/MarijonasVV/FORR2GL05DU/releases/tag/Verkefni)
 
 [Leikur](https://play.unity.com/en/games/ff820cea-5a34-404f-9a2f-b51660eac5eb/leikur-marijonas)
+
+## VERKEFNI 3
+
+[Skriftur](https://github.com/MarijonasVV/FORR2GL05DU/tree/main/Verkefni3/skriftur)
