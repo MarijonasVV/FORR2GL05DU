@@ -27,3 +27,11 @@
 [Skriftur](https://github.com/MarijonasVV/FORR2GL05DU/tree/main/Verkefni3/skriftur)
 
 [Myndaband](https://youtu.be/En-sKLzrWE8)
+
+[Release](https://github.com/MarijonasVV/FORR2GL05DU/releases/tag/Verkefni3)
+
+[Stutt Lýsing](https://github.com/MarijonasVV/FORR2GL05DU/blob/main/Verkefni3/Stuttlysing.md)
+
+#### Asset Mappan
+
+![image](https://github.com/user-attachments/assets/581bab56-021c-4b4d-8c93-7747cc5feea2)
