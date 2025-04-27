@@ -35,3 +35,13 @@
 #### Asset Mappan
 
 ![image](https://github.com/user-attachments/assets/581bab56-021c-4b4d-8c93-7747cc5feea2)
+
+## VERKEFNI 4
+
+[Skriftur](https://github.com/MarijonasVV/FORR2GL05DU/tree/main/Verkefni4/Scripts)
+
+[Stutt Lýsing](https://github.com/MarijonasVV/FORR2GL05DU/blob/main/Verkefni4/Lysing.md)
+
+[Myndaband]()
+
+[Release]()
