@@ -44,4 +44,4 @@
 
 [Myndaband]()
 
-[Release]()
+[Release](https://github.com/MarijonasVV/FORR2GL05DU/releases/tag/Verkefni4)
