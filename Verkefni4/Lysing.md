@@ -1,1 +1,1 @@
-
+Stuttur 2d leikur þar sem þú ert önd, þú þarft að finna leið út úr leikinn, það eru óvinur og hlutir sem munn taka líf frá þér ef þú passar þig ekki, c er notað til að skjótta snakk poka til að stoppa óvinina, x er til að tala við vinn þinn í leikinn (Dialogue boxið sýnist ekki á smá skjám þannig gæti verið vandarmál).
