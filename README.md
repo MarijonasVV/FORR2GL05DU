@@ -42,6 +42,6 @@
 
 [Stutt Lýsing](https://github.com/MarijonasVV/FORR2GL05DU/blob/main/Verkefni4/Lysing.md)
 
-[Myndaband]()
+[Myndaband](https://youtu.be/h9E6r3IVwJQ) (PS, ÞAÐ ER HLJÓÐ Í LEIKNUM EN SCREENPAL VIRKAR EKKI Á TÖLVUNA MÍNA ÞANNIG EKKERT HEYRIST)
 
 [Release](https://github.com/MarijonasVV/FORR2GL05DU/releases/tag/Verkefni4)
