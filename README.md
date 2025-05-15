@@ -53,3 +53,5 @@
 [Skriftur](https://github.com/MarijonasVV/FORR2GL05DU/tree/main/Verkefni5/skriftur)
 
 [Stutt Lýsing](https://github.com/MarijonasVV/FORR2GL05DU/blob/main/Verkefni5/stuttlysing.md)
+
+[Release](https://github.com/MarijonasVV/FORR2GL05DU/releases/tag/Verkefni5)
