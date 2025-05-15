@@ -45,3 +45,11 @@
 [Myndaband](https://youtu.be/h9E6r3IVwJQ) (PS, ÞAÐ ER HLJÓÐ Í LEIKNUM EN SCREENPAL VIRKAR EKKI Á TÖLVUNA MÍNA ÞANNIG EKKERT HEYRIST)
 
 [Release](https://github.com/MarijonasVV/FORR2GL05DU/releases/tag/Verkefni4)
+
+## VERKEFNI 5
+
+[Myndaband](https://youtu.be/f0ErwK_smC8) (Það er ekkert hljóð því screenpal tekur ekki upp hljóð nema maður borgar
+
+[Skriftur](https://github.com/MarijonasVV/FORR2GL05DU/tree/main/Verkefni5/skriftur)
+
+[Stutt Lýsing](https://github.com/MarijonasVV/FORR2GL05DU/blob/main/Verkefni5/stuttlysing.md)
